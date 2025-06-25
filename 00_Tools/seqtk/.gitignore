@@ -1,0 +1,5 @@
+# prevent binaries from being committed
+*
+!install.sh
+!run.sh
+!.gitignore

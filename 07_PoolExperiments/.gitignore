@@ -1,0 +1,9 @@
+*.log
+figures
+*.gz
+*.sam
+*.bam
+*.readmetrics.csv
+*.errormap
+data
+submit_arguments.txt
