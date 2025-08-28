@@ -1,3 +1,4 @@
 seq_data
 figures
+*.hdf5
 submit_arguments.txt

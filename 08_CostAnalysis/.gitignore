@@ -1,0 +1,6 @@
+*.log
+figures
+*.gz
+*.hdf5
+data
+submit_arguments.txt

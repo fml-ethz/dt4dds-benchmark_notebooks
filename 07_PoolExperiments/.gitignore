@@ -1,9 +1,8 @@
 *.log
 figures
 *.gz
-*.sam
-*.bam
-*.readmetrics.csv
-*.errormap
+*.hdf5
+exp_data
+decoding_data*
 data
 submit_arguments.txt
